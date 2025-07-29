@@ -1,7 +1,7 @@
 🐤 Flappy Bird Game
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-A fun and addictive Flappy Bird clone built using Python and the Pygame library. This project is a simple recreation of the original Flappy Bird game, where the player controls a bird and tries to fly between green pipes without crashing.
+A fun and addictive Flappy Bird clone built using java using Swing , AWT. This project is a simple recreation of the original Flappy Bird game, where the player controls a bird and tries to fly between green pipes without crashing.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎮 About the Project
