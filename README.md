@@ -1,20 +1,16 @@
-## Getting Started
+🐤 Flappy Bird Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A fun and addictive Flappy Bird clone built using Python and the Pygame library. This project is a simple recreation of the original Flappy Bird game, where the player controls a bird and tries to fly between green pipes without crashing.
 
-## Folder Structure
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🎮 About the Project
 
-The workspace contains two folders by default, where:
+The Flappy Bird Game is a classic side-scroller where you tap (or press a key) to keep the bird airborne. The goal is to fly as far as possible by navigating between randomly positioned pipe gaps. It challenges the player’s reflexes and timing, making it a great project for learning game development fundamentals.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+📸 Demo Video
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://github.com/user-attachments/assets/0cf12401-672e-4d1d-a02f-1819792cc991
